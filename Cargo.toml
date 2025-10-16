@@ -1,6 +1,6 @@
 [package]
 name = "pkg-checker"
-version = "0.8.1"
+version = "0.8.2"
 edition = "2021"
 description = "A Rust tool for checking and updating globally installed Cargo packages with interactive mode and smart prerelease detection"
 documentation = "https://docs.rs/pkg-checker"

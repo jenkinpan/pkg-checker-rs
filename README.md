@@ -3,6 +3,7 @@
 [![Crates.io](https://img.shields.io/crates/v/pkg-checker.svg)](https://crates.io/crates/pkg-checker)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+⚠️ **项目已重命名**: 此项目已迁移到 [cargo-fresh](https://crates.io/crates/cargo-fresh)，请使用新项目。
 一个用 Rust 编写的工具，用于检查和管理全局安装的 Cargo 包更新。支持交互式更新、智能预发布版本检测和彩色输出。
 
 ## 功能特性
